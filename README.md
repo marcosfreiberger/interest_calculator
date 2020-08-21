@@ -2,7 +2,7 @@
 
 ## 🖥 Preview
 <p align = "center">
-  <img src = "juros_compostos](https://user-images.githubusercontent.com/48637568/90844779-139f3d00-e33b-11ea-8b69-b43ad70bf0e7.jpg" width = "700">
+  <img src = "https://user-images.githubusercontent.com/48637568/90844779-139f3d00-e33b-11ea-8b69-b43ad70bf0e7.jpg" width = "700">
 </p>
 
 ---
